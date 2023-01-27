@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @PirateGamer
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me PirateGamer#0001 on discord!
+sᴇʀᴠᴇʀ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
+
+➔ 15+ ɴᴇᴛᴡᴏʀᴋs ᴍᴀɴᴀɢᴇᴅ
+➔ 3+ ʏᴇᴀʀs ᴇxᴘᴇʀɪᴇɴᴄᴇ
+➔ ᴄᴏᴅɪɴɢ ɪɴ ᴀʟᴏᴛ ᴏꜰ ʟᴀɴɢᴜᴀɢᴇs
+
 
 <!---
 PirateGamerXN/PirateGamerXN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
